@@ -1,0 +1,7 @@
+#TODO Create glossary
+
+t = minimum thickness
+P = allowable pressure
+S = allowable stress
+E = joint efficiency, percent
+R = inside radius

@@ -1,0 +1,40 @@
+DesIgn Code: ASME VIII Div. 1. pressure Vessel Type: CilindricalTop Head Type: TorrisphericalTop Head Type: Torrispherical*-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-*
+PRESSURE VESSEL DATA:
+
+Medium: WATER
+WATER Density: 997.0 Kg/m3.
+WATER level in operation: 5000.0 mm
+Medium Column Weight: 4.985 kPa
+Design Temperature: 160.0 C
+Internal Pressure: 1500.0 kPa
+Design Pressure: 1504.985 kPa
+Joint Efficience: 0.85
+Internal Radius: 1000.0 mm
+Internal Radius Corroded: 1003.0 mm
+Corrosion Allowance: 3.0 mm
+Conformation Material Loss: 2.5 mm
+
+
+Material as per ASME Section II Part D: 
+
+Cilinder Material: A
+Top Head Material: A 
+Bottom Head Material: A 
+Cilinder Allowable Stress Cold: 120200.0 kPa 
+Cilinder Allowable Stress Hot: 107600.0 kPa
+Top Head Allowable Stress Cold: 120200.0 kPa 
+Top Head Allowable Stress hot: 107600.0 kPa 
+Bottom Head Allowable Stress Cold: 120200.0 kPa
+Bottom Head Allowable Stress hot: 107600.0 kPa
+Cilinder Yield Stress: 225000.0 kPa
+Top Head Yield Stress: 225000.0 kPa
+Bottom Head Yield Stress: 225000.0 kPa
+*-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-*Cilinder minimun thickness due circuferencial stress is 16.72427045376465 mm.
+Cilinder minimun thickness due longitudinal stress is 8.306913525590005 mm.Nominal Thickness w/ Corrosion allowance due circunferencial stress is 19.72427045376465 mm
+Cilinder PMTA Calculation
+MAWP due circunferencial stress: 1509.9206213363389 kPa
+MAWP due longitudinal stress: 1519.9912226914707Max. Allowed Work Pressure is 1509.9206213363389 Kpa due circuferencial stress.
+Cilinder Stress Calculation
+Pressure is less than 0.385*S*E. Stress as thin wall pressure vessel
+Circunferencial stress: 107603.51882352942 kPa
+longitudinal stress: {self.thin_cil_long_stress}
